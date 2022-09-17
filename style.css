@@ -1,0 +1,140 @@
+body {
+
+    background-image: url(http://www.pptgrounds.com/wp-content/uploads/2013/06/Simple-Green-Themes-Backgrounds.jpg);
+    
+    background-repeat: no-repeat;
+    height: auto;
+
+    display: block;
+
+    justify-content: left;
+
+    align-items: center;
+
+    height: 100vh;
+
+    flex-direction: column;
+
+}
+
+*  {
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+    box-sizing: padding_box;
+
+    }
+h2 {
+
+    text-align: center;
+
+    
+
+    }
+
+input {
+
+
+    display: ruby;
+
+    border: 2px solid #ccc;
+
+    width: 20%;
+
+    padding: 5px;
+
+    margin: 10px auto;
+
+    border-radius: 5px;
+
+}
+
+label {
+
+
+    color: black;
+
+    font-size: 20px;
+
+    padding: 10px;
+
+}
+
+button {
+
+    float: Center;
+
+    background: blue;
+
+    padding: 10px 15px;
+
+    color: white;
+
+    border-radius: 5px;
+
+    margin-right: 10px;
+
+    border: none;
+
+}
+
+.error {
+
+   background: #F2DEDE;
+
+   color: #0c0101;
+
+   padding: 10px;
+
+   width: 95%;
+
+   border-radius: 5px;
+
+   margin: 20px auto;
+
+}
+
+h1 {
+
+    text-align: center;
+
+    color: rgb(134, 3, 3);
+
+}
+
+#a {
+
+    float: center;
+
+    background:blue;
+
+    padding: 10px 20px;
+
+    color: whitesmoke;
+
+    border-radius: 10px;
+
+    margin-right: 10px;
+
+    border: none;
+
+    text-decoration: none;
+
+}
+
+.h-center{
+    text-align: center;
+}
+.nav{
+    
+    overflow: hidden;
+}
+.nav a{
+    text-decoration-color: blueviolet;
+    text-decoration:none;
+    float: right;
+    text-align: left;
+    padding: 14px 16px;
+
+
+}
